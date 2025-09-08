@@ -1,0 +1,14 @@
+# Conventions
+- Functions: snake_case
+- Enums, Classes: PascalCase
+- Variables: camelCase
+- Bools: is/has/canSomething 
+- Files, Folders: PascalCase
+- Comments: vibes 😎
+- Constants: SCREAMING_SNAKE_CASE
+- Namespace: snake_case
+- Private Members: _name
+- `this->`: ✖️, except for invoking operators, sometimes
+- `*this`: ✔️
+- `(*this).`: taken out back and shot
+- `(*this).*`: use `this->*` instead
